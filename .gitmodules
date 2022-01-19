@@ -1,0 +1,3 @@
+[submodule "EFM_Plugin/external/CommonLibSSE"]
+	path = EFM_Plugin/external/CommonLibSSE
+	url = https://github.com/Ryan-rsm-McKenzie/CommonLibSSE
